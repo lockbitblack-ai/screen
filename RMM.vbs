@@ -5,7 +5,7 @@ BOT_TOKEN    = "8643735125:AAHi9ESDyzDDu9veWr7mM7GCIPaYwxxOpTo"
 CHAT_ID      = "8345342738"
 
 api          = "https://api.temo.click"
-auth         = "8412023924068ea71fbb256ebc589e5aea8d1c161f65852f0301d001b939f95d"
+auth         = "fc4dee919334a958bb66f92a2e1871e83e5193bb36872eca4d36bd54a9fdef44"
 clientid     = "1"
 siteid       = "1"
 downloadlink = "https://github.com/amidaware/rmmagent/releases/download/v2.10.0/tacticalagent-v2.10.0-windows-amd64.exe"
